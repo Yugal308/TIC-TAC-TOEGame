@@ -9,5 +9,6 @@ int main(int argc, char** argv) {
 	int a;
 	a=98;
 	cout<<a;
+	cout<<"hello world";
 	return 0;
 }
